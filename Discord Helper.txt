@@ -1,0 +1,64 @@
+
+██████╗░██╗░██████╗░█████╗░░█████╗░██████╗░██████╗░░░░░░░██╗░░██╗███████╗██╗░░░░░██████╗░
+██╔══██╗██║██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗░░░░░░██║░░██║██╔════╝██║░░░░░██╔══██╗
+██║░░██║██║╚█████╗░██║░░╚═╝██║░░██║██████╔╝██║░░██║█████╗███████║█████╗░░██║░░░░░██████╔╝
+██║░░██║██║░╚═══██╗██║░░██╗██║░░██║██╔══██╗██║░░██║╚════╝██╔══██║██╔══╝░░██║░░░░░██╔═══╝░
+██████╔╝██║██████╔╝╚█████╔╝╚█████╔╝██║░░██║██████╔╝░░░░░░██║░░██║███████╗███████╗██║░░░░░
+╚═════╝░╚═╝╚═════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░░░░░░░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░░░░
+
+==========================================================================================
+
+Creado por HellLonely
+
+Discord → HellLonely#1111
+
+==========================================================================================
+
+
+Esta es una lista de recursos web para facilitar la configuración y personalización 
+de un servidor de discord.
+
+Fuentes Variadas ↴
+https://lingojam.com/DiscordFonts
+
+Lista Emoticonos ↴
+https://emojipedia.org
+
+Página Emojis ↴
+https://emoji.gg/
+
+Todos los Simbolos ↴
+https://www.symbolsofit.com/es/
+
+Link invitación Pers ↴
+https://discord.io
+
+Plantillas Discord ↴
+https://discordextremelist.xyz/es-ES/templates
+
+Texto Pers ↴
+https://fsymbols.com/signs/square/
+
+Separadores Roles ↴
+https://procrastinafacil.com/simbolos-separadores-de-texto/
+
+NickFinder ↴
+https://es.nickfinder.com/fancy-text
+
+Discord Size ↴ 
+https://www.vectornator.io/templates/discord-size-guide#:~:text=The%20recommended%20size%20for%20your,down%20to%20the%20proper%20size.
+
+Lista de bots ↴
+https://top.gg/
+
+BetterDiscord (Instala plugins y temas en Discord) ↴
+https://betterdiscord.app/
+
+BetterDiscord Plugins ↴
+https://betterdiscord.app/plugins
+
+==========================================================================================
+
+Espero que la persona que reciba esto pueda usarlo para mejorar su servidor al maximo.
+
+==========================================================================================
