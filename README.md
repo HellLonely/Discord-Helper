@@ -84,6 +84,7 @@ Esta canal tiene el objetivo de proteger los otros canales ante las amenazas de 
 Estos canales suelen estar conformados por un solo mensaje de texto y un icono para reaccionar, y este texto puede ser básico o ya un texto más elavorado o incluso un **embed** con algun Bot.
 
 ![text1](img/text1.png)
+
 ![text1](img/text2.png)
 
 Estos son los permisos que suelen ser.
