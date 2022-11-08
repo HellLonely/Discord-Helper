@@ -83,11 +83,13 @@ Esta canal tiene el objetivo de proteger los otros canales ante las amenazas de 
 
 Estos canales suelen estar conformados por un solo mensaje de texto y un icono para reaccionar, y este texto puede ser básico o ya un texto más elavorado o incluso un **embed** con algun Bot.
 
+En este caso se uso para crear el canal de verificación el bot _Zira_
+
 ![text1](img/text1.png)
 
 ![text1](img/text2.png)
 
-Estos son los permisos que suelen ser.
+Estos son los permisos que suelen tener.
 
 +   Ver Canal
 +   Añadir reacciones
@@ -110,3 +112,15 @@ Este es un canal dedicado a la administración, por lo tanto el permiso de acces
 #### Canales dedicados a Bots 🤖
 
 Son similares a los canales **Generales**, lo unico que tiene un permiso especial para los Bots.
+
+## ¿Como diseñar un **Canal de Voz**?
+
+Los diseños de los canales de voz son muy similares al diseño de [**Canales de Texto**](#¿como-diseñar-el-canal-de-texto), pero este suele tener una ligera variación de temática.
+
+Tomamos aqui un ejemplo.
+
+![gerer1](img/gerer0.png)
+
+![gerer1](img/gerer1.png)
+
+En este caso los dos estan en _Forma 3_ pero cada uno es distinto.
