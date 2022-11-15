@@ -124,3 +124,46 @@ Tomamos aqui un ejemplo.
 ![gerer1](img/gerer1.png)
 
 En este caso los dos estan en _Forma 3_ pero cada uno es distinto.
+
+Respeto a los permisos de estos canales son basicamente los mismos que en los **Canales de texto**
+
+
+## Ejemplos
+
+Aquí unos pequeños ejemplos de diseños de canales, tanto de textto como de voz.
+
+Todos ellos usados en servidores.
+
+    #Texto
+
+    ✨～𝐆𝐞𝐧𝐞𝐫𝐚𝐥 
+    │🙌│𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐚𝐬
+    🔥・𝗦𝘁𝗮𝗳𝗳
+    ⦓📺⦔﹒𝗗𝗶𝗿𝗲𝗰𝘁𝗼𝘀
+    〖🎴〗𝗜𝗺𝗮𝗴𝗲𝗻𝗲𝘀
+    『📢』𝗔𝗻𝘂𝗻𝗰𝗶𝗼𝘀
+    ╭᲼🔻・᲼General
+    ╰᲼🔺・᲼Amistoso
+    ┈⋞〈📝𝐁𝐥𝐨𝐜-𝐍𝐨𝐭𝐚𝐬．〉
+
+    #Voz
+
+    🔥│𝐏𝐫𝐢𝐯𝐚𝐝𝐨
+    ⦕🗣⦖ ﹒General
+    🪑・𝟐 𝐒𝐢𝐥𝐥𝐚𝐬 // Restricción de 2 usuarios
+    🪑・𝟒 𝐒𝐢𝐥𝐥𝐚𝐬 // Restricción de 4 usuarios
+    📢 ・𝓒𝓱𝓪𝓽 𝓖𝓮𝓷𝓮𝓻𝓪𝓵
+    ⚜・🔊
+    ☄・🔊
+    💪・🔊
+    🎥・Twitch
+
+    #Categoria
+
+    ╭┈┈┃𝓜𝓪𝓲𝓷┃┈┈╮
+    │🌵│Redes Sociales
+    𝓥𝓸𝔃
+    │══〖𝗠𝘂𝘀𝗶𝗰𝗮〗══│
+    ┟━━━◇Juegos◇━━━┦
+
+Estos son unos pocos ejemplos, buscando en internet podreis aumentar vuestra immaginación e inspiración.
